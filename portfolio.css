@@ -1,0 +1,45 @@
+body {
+  background-color: #f0efe4;
+}
+main {
+  margin-top: 90px;
+  margin-bottom: 30px;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  padding: 15px;
+}
+img {
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+.project {
+  margin-bottom: 30px;
+  overflow: auto;
+}
+h1 {
+  font-family: 'Noto Sans JP', sans-serif;
+  text-align: center;
+  background-color: #ece1d3;
+}
+p {
+  font-size: 20px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.project_name {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 30px;
+  clear: left;
+}
+.project {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+a {
+  text-decoration: none;
+}
+.attribute {
+  font-size: 10px;
+}

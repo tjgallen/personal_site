@@ -1,0 +1,19 @@
+main {
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-top: 90px;
+  text-align: center;
+  background-color: #f0efe4;
+  padding-top: 90px;
+  padding-bottom: 30px;
+}
+body {
+  background-color: #f0efe4;
+}
+hr {
+  margin-top: 50px;
+}
+.quote {
+  font-family: 'Pompiere', cursive;
+  font-size: 2rem;
+  margin-top: 60px;
+}

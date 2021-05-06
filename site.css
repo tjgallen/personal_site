@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Gelasio&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;400&display=swap');
+/* Header */
+.name {
+  text-align: left;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+}
+header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: #cef0ea;
+  padding: 15px;
+}
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 2em;
+}
+.links a {
+  text-decoration: none;
+  color: blue;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.links a:hover {
+  border-bottom: 3px solid red;
+}
+.links a.active {
+  border-bottom: 3px solid red;
+}
+/* Footer */
+footer {
+  position: fixed;
+  height: 30px;
+  margin-top: 30px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #cef0ea;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  grid-gap: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.github-link {
+  width: 40px;
+  height: 40px;
+}
+.linkedIn-link {
+  width: 20px;
+  height: 20px;
+}
